@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e7ad151a36a5d3c88517706"},"fx":"4x^3-3x^4+x^3","degree":{"$numberInt":"1"},"x":{"$numberInt":"2"},"h":{"$numberDouble":"0.5"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e7ae8255d4eb9069020a2b2"},"fx":"4x^3-3x^4+x^3","degree":{"$numberInt":"2"},"x":{"$numberInt":"2"},"h":{"$numberDouble":"0.5"},"__v":{"$numberInt":"0"}}

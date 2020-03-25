@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e7a4cbb038e0f404ca9ff9c"},"fx":"4x^3-3x^4+x^3","a":{"$numberInt":"1"},"b":{"$numberInt":"2"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e7a5fcde003a80710426897"},"fx":"4x^3-3x^4+x^3","a":{"$numberInt":"1"},"b":{"$numberInt":"2"},"__v":{"$numberInt":"0"}}

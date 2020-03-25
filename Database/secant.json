@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e7a4554820dc20e18785cfa"},"fx":"x^2","x0":{"$numberInt":"2"},"x1":{"$numberInt":"4"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e7a45d0820dc20e18785cfb"},"fx":"2e^x+x-4","x0":{"$numberInt":"0"},"x1":{"$numberInt":"1"},"__v":{"$numberInt":"0"}}
